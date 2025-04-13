@@ -3,8 +3,12 @@
 > 使用 Dracula 的[调色盘](https://github.com/dracula/dracula-theme#color-palette)，具体效果灵感来自 [Dracula Theme for Rime](https://draculatheme.com/rime)
 
 ## 配色预览
-![预览](color_scheme_AmenDracula.png)
-![效果](界面风格设定.png)
+
+![配色预览](/preview/color_scheme_AmenDracula.png)
+
+**上方为 color_scheme_AmenDracula.png**
+
+![设置效果](界面风格设定.png)
 
 ## 自定义
 
