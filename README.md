@@ -32,8 +32,6 @@
 
 注意Rime 的 YAML 的语法缩进是两个空格，不能是 Tab 键。
 
-
-
 ## License
 
 [MIT License](./LICENSE)
