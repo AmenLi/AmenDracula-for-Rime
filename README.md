@@ -8,6 +8,8 @@
 
 **上方为 color_scheme_AmenDracula.png**
 
+存放路径：C:\Users\用户名\AppData\Roaming\Rime\preview
+
 ![设置效果](界面风格设定.png)
 
 ## 自定义
