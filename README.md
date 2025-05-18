@@ -14,15 +14,12 @@
 
 ## 自定义
 
-主题示例可参考雾凇拼音的 [`weasel.yaml`](https://github.com/iDvel/rime-ice/blob/main/weasel.yaml)。
+主题示例可参考雾凇拼音的 [`weasel.yaml`](https://github.com/iDvel/rime-ice/blob/main/weasel.yaml)
 
 此配色按个人喜好做了修改，主要是修改候选框的样式。
 减少空白以在 16 英寸的笔记本屏幕更好的显示，微调颜色更好的分辨候选词。
 
-配色的数值是由[润笔](https://pdog18.github.io/rime-soak/#/theme)生成的。
-
-请注意，此主题并未完全配置一个完整的 Rime 主题，只使用了部分参数。
-`inline_preedit: false` 时，行内显示预编辑区的配色并未设置，会不好看。
+配色的数值是由[润笔](https://pdog18.github.io/rime-soak/#/theme)生成的十进制颜色代码。再使用 AI 转换成带 0x 的 BGR 颜色代码，非 RGB 颜色代码。
 
 你可以使用[润笔](https://pdog18.github.io/rime-soak/#/theme)再做修改，或者使用[西米](https://fxliang.github.io/RimeSeeMe/)。
 
@@ -32,7 +29,7 @@
 
 字体效果依据你的配置显示。
 
-注意 Rime 的 YAML 的语法缩进是两个空格，不能是 Tab 键。
+注意 Rime 的 YAML 的语法缩进是两个空格，不能是 Tab 格式。
 
 ## License
 
