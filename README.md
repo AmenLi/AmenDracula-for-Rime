@@ -2,6 +2,8 @@
 
 > 具体效果灵感来自 [Dracula Theme for Rime](https://draculatheme.com/rime)
 
+[自用 Rime 配置](https://github.com/AmenLi/AmenRimeConfigs)
+
 ## 配色预览
 
 ![配色预览](preview/color_scheme_AmenDracula.png)
