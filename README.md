@@ -27,9 +27,9 @@
 | candidate_text_color                              | `#BD93F9` | `#F993BD` | ![Purple Color](https://draculatheme.com/images/color-boxes/purple.png)           |
 | text_color / hilited_text_color                   | `#FF5555` | `#5555FF` | ![Red Color](https://draculatheme.com/images/color-boxes/red.png)                 |
 
-润米配置截图如下：
+润笔配置截图如下：
 
-![](润米配置截图.png)
+![](润笔配置截图.png)
 
 ## 自定义
 
