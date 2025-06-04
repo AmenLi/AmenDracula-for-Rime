@@ -24,9 +24,9 @@ patch:
       back_color: 0x362A28                    # 整体候选框的背景颜色
       border_color: 0x362A28                  # 整体候选框的边框颜色
 
-      text_color: 0x5555FF                    # preedit 的字体颜色
-      hilited_text_color: 0x5555FF            # 被选中的 preedit 的字体颜色
-      hilited_back_color: 0xF2F8F8            # 被选中的 preedit 的背景颜色
+      text_color: 0xF993BD                    # preedit 的字体颜色
+      hilited_text_color: 0xF2F8F8            # 被选中的 preedit 的字体颜色
+      hilited_back_color: 0xC679FF            # 被选中的 preedit 的背景颜色
 
       hilited_candidate_back_color: 0xC679FF  # 被选中的候选词的背景颜色
       hilited_label_color: 0xFDE98B           # 被选中的候选词序号字体颜色

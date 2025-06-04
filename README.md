@@ -21,11 +21,14 @@
 | back_color / border_color                         | `#282A36` | `#362A28` | ![Background Color](https://draculatheme.com/images/color-boxes/background.png)   |
 | hilited_comment_text_color                        | `#44475A` | `#5A4744` | ![Selection Color](https://draculatheme.com/images/color-boxes/selection.png)     |
 | hilited_back_color / hilited_candidate_text_color | `#F8F8F2` | `#F2F8F8` | ![Foreground Color](https://draculatheme.com/images/color-boxes/foreground.png)   |
-| comment_text_color                                | `#6272A4` | `A47262`  | ![Comment Color](https://draculatheme.com/images/color-boxes/comment.png)         |
+| comment_text_color                                | `#6272A4` | `#A47262`  | ![Comment Color](https://draculatheme.com/images/color-boxes/comment.png)         |
 | label_color / hilited_label_color                 | `#8BE9FD` | `#FDE98B` | ![Cyan Color](https://draculatheme.com/images/color-boxes/cyan.png)               |
-| hilited_candidate_back_color                      | `#FF79C6` | `C679FF`  | ![Pink Color](https://draculatheme.com/images/color-boxes/pink.png)               |
+| hilited_candidate_back_color                      | `#FF79C6` | `#C679FF`  | ![Pink Color](https://draculatheme.com/images/color-boxes/pink.png)               |
 | candidate_text_color                              | `#BD93F9` | `#F993BD` | ![Purple Color](https://draculatheme.com/images/color-boxes/purple.png)           |
 | text_color / hilited_text_color                   | `#FF5555` | `#5555FF` | ![Red Color](https://draculatheme.com/images/color-boxes/red.png)                 |
+
+
+`inline_preedit: false` 时的颜色已修改。润笔截图未更新。
 
 润笔配置截图如下：
 
